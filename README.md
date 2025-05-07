@@ -4,7 +4,7 @@ Inputs:
 Arg1: Starting floor -> The floor you want the elevator to start 
 Arg2: Floors to visit -> A list of floors the elevator needs to visit during operation
 
-example: python elevator_app.py 1 2,4,6,8
+example: python elevator_controller.py 1 2,4,6,8
 
 Output:
 Total time -> Gives the total time the elevator's travel to each floor
