@@ -5,7 +5,11 @@ Author: Chris Palazzolo
 Date: 5/6/2025
 
 Description:
-A test file which tests the ElevatorCar class.
+A pytest test file which tests the ElevatorCar class methods, go_to_floor(),
+go_to_floors() and reset().
+
+Dependencies:
+    pytest
 
 Run Command: pytest -v test_elevator_car.py
 """
